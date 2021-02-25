@@ -3,3 +3,4 @@
 We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
+- Amin Yazdi [project](https://github.com/mayazdi/Simple-Python-Network-Simulator)
