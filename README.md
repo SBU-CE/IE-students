@@ -2,4 +2,4 @@
 
 We are students with great projects!
 
-- roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
+- koorosh khavari [project](https://github.com/NukaColaQuantum666/IEHomeworks)
