@@ -2,4 +2,4 @@
 
 We are students with great projects!
 
-- roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
+- Hossein Karimi [project](https://github.com/H-Karimi/UniversityManagementBackend)
