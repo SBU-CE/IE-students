@@ -2,4 +2,4 @@
 
 We are students with great projects!
 
-- roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
+- Mohammad Hadi Foroughi [project](https://github.com/hadiforoughi/AnonymousChat) 
