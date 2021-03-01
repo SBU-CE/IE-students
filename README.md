@@ -2,4 +2,4 @@
 
 We are students with great projects!
 
-- roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
+- Mahdi Alizadeh [project](https://github.com/MahdiAlizadeh1/IE-HW1)
