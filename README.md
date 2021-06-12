@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- amirhosein delavar [project](https://github.com/AmirhoseinDelavar/Python-CheatSheet)
+
 - amir masud shaker [project](https://github.com/amshaker/Hello-World) 
 
 - MohammadMahdi Peyravi [project](https://github.com/mmpeyravi/mmpeyravi.git)
@@ -113,3 +115,4 @@ We are students with great projects!
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
+ 
