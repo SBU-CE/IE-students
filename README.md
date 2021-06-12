@@ -4,6 +4,9 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+
+- farzan  momayezi [project](https://github.com/Farzan-lab/git_hw_p2.git)
+
 - alireza mohammadi [project](https://github.com/AliirezaMohammadii/Tetris-Game/)
 
 - mohammad hossein mazandaranian [project](https://github.com/modos/ie-github-homework) 
@@ -35,3 +38,4 @@ We are students with great projects!
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
+
