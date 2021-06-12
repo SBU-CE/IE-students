@@ -4,6 +4,9 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- Amin Yazdi [project](https://github.com/mayazdi/Simple-Python-Network-Simulator)
+
+
 - matin zivdar [DSD_Projects](https://github.com/zivdar001matin/DSD_Projects)
 
 - mohammad amin shafiei [ohtello](https://github.com/Mamin78/Othello) 
