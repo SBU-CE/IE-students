@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- mohammad hassanmahdi [project](https://github.com/mohammadhm99/simple-weather-app.git) 
+
 - Seyyed Hamid Montazeri [project](https://github.com/hamidhandid/software_test_final_project)
 
 - kimia sedighi [project](https://github.com/kimiasedighi/IE-git-hw)
