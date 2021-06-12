@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- marzieh hallajian [project](https://github.com/MarziehHH/hw1Internet.git)
+
 - amirhosein delavar [project](https://github.com/AmirhoseinDelavar/Python-CheatSheet)
 
 - amir masud shaker [project](https://github.com/amshaker/Hello-World) 
