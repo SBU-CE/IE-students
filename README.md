@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- Mohammadreza Pakzadian [project](https://github.com/mrp-78/Text-Editore)
+
 - dorreen rostami [project](https://github.com/DorreenRostami/SBU_elasticSearch)
 
 - Ali Bohlooli [IE-Project] (https://github.com/alibli/behzad-shop)
@@ -41,4 +43,3 @@ We are students with great projects!
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
-
