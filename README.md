@@ -4,8 +4,9 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
-- Amin Yazdi [project](https://github.com/mayazdi/Simple-Python-Network-Simulator)
+- arya parvizi [project](https://github.com/ph504/ai-computer-assignment1-eight-puzzle)
 
+- Amin Yazdi [project](https://github.com/mayazdi/Simple-Python-Network-Simulator)
 
 - matin zivdar [DSD_Projects](https://github.com/zivdar001matin/DSD_Projects)
 
@@ -22,4 +23,3 @@ We are students with great projects!
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
-
