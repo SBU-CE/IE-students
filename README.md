@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- Ali Shokri [project](https://github.com/alishokri1661s/LL1-Parser)
+
 - hoda vafaeisefat [project](https://github.com/hodaVS/netHw)
 
 - Hamed Khademi Khaledi [project](https://github.com/hamedkhaledi/Compiler-Project)
@@ -53,4 +55,3 @@ We are students with great projects!
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
-
