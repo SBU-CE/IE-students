@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- Hamidreza Saffari [project](https://github.com/hamidds/Astar-Search)
+
 - ehsan sajadi [project](https://github.com/ehsansajadi/Quoridor) 
 
 - arya parvizi [project](https://github.com/ph504/ai-computer-assignment1-eight-puzzle)
@@ -25,3 +27,4 @@ We are students with great projects!
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
+
