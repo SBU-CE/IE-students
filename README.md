@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- ehsan sajadi [project](https://github.com/ehsansajadi/Quoridor) 
+
 - arya parvizi [project](https://github.com/ph504/ai-computer-assignment1-eight-puzzle)
 
 - Amin Yazdi [project](https://github.com/mayazdi/Simple-Python-Network-Simulator)
