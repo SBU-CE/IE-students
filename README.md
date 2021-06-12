@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- Mohammad Hadi Foroughi [project](https://github.com/hadiforoughi/AnonymousChat) 
+
 - Kian Jalilian [project](https://github.com/kianjalilian/git-homework)
 
 - Mahdi Alizadeh [project](https://github.com/MahdiAlizadeh1/IE-HW1)
