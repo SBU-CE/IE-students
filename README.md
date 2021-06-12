@@ -4,7 +4,16 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+
 - farzan  momayezi [project](https://github.com/Farzan-lab/git_hw_p2.git)
+
+- alireza mohammadi [project](https://github.com/AliirezaMohammadii/Tetris-Game/)
+
+- mohammad hossein mazandaranian [project](https://github.com/modos/ie-github-homework) 
+
+- mohammad hosein heydarzadeh [project](https://github.com/heidarzade-mh/IE-home-work-1)
+
+- Hamidreza Saffari [project](https://github.com/hamidds/Astar-Search)
 
 - ehsan sajadi [project](https://github.com/ehsansajadi/Quoridor) 
 
@@ -23,6 +32,8 @@ We are students with great projects!
 - Alireza ChaghaMirzaei [project](https://github.com/achm25/IE-hw1)
 
 - Rasoul Akhondi [Project](https://github.com/Rasoul-Akhondi/git1_Q2)
+
+- Kamyab Abedi	[MazeSolver](https://github.com/KamyabAbedi/MazeSolver)
 
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
