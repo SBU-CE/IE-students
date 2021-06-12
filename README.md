@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- Seyyed Hamid Montazeri [project](https://github.com/hamidhandid/software_test_final_project)
+
 - kimia sedighi [project](https://github.com/kimiasedighi/IE-git-hw)
 
 - MohammadReza Sadeghi [project](https://github.com/MRSadeghi78/Quoridor)
