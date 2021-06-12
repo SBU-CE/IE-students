@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- Mohammad Reza Jamali [project](https://github.com/mrezaj79/git-hw)
+
 - Narges Ghasemi [project](https://github.com/NNargesNN/News-Classification) 
 
 - Mohammadreza Pakzadian [project](https://github.com/mrp-78/Text-Editore)
@@ -45,4 +47,3 @@ We are students with great projects!
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
-
