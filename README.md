@@ -4,6 +4,8 @@ We are students with great projects!
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
+- Amirali Noorani [project](https://github.com/holyamirali/Q2_IE_HW1)
+
 - marzieh hallajian [project](https://github.com/MarziehHH/hw1Internet.git)
 
 - amirhosein delavar [project](https://github.com/AmirhoseinDelavar/Python-CheatSheet)
