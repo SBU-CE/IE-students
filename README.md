@@ -24,6 +24,8 @@ We are students with great projects!
 
 - Rasoul Akhondi [Project](https://github.com/Rasoul-Akhondi/git1_Q2)
 
+- Kamyab Abedi	[MazeSolver](https://github.com/KamyabAbedi/MazeSolver)
+
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
