@@ -120,3 +120,4 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Ghazal Kalhori [LL(1) Parser](https://github.com/GKalhori/LL1_Parser/)
