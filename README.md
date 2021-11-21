@@ -120,3 +120,4 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Mohammad Khoddam [The 8086 Tetris Project](https://github.com/mkh2097/Tetris-Assembly-8086)
