@@ -120,3 +120,4 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Zahra Hashemi [project](https://github.com/zahra-zibzee/Audacity-app)
