@@ -120,5 +120,5 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
-- Mehrshad Saadatinia [project] (https://github.com/mehrshad-sdtn/IE-students)
+- Mehrshad Saadatinia [project](https://github.com/mehrshad-sdtn/IE-students)
 
