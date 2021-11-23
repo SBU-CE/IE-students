@@ -120,3 +120,5 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Tara Barghian [project](https://github.com/taraBarghian/AI-Driven-Othello)
+
