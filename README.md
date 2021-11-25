@@ -120,3 +120,4 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Mohammadreza Amini [Serial Adder](https://github.com/mrezaamini/Serial-Adder)
