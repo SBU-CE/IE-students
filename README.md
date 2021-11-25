@@ -120,3 +120,5 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Alireza Amini [Jacobian Calculator](https://github.com/alirezaamn/jacobian-calculator)
+
