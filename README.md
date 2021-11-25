@@ -120,3 +120,5 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Mohammadreza Mohammadzade Asl [project](https://github.com/Mohammadreza-mz/ShatranjClient)
+
