@@ -119,4 +119,4 @@ We are students with great projects!
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
-
+- Seyed Alireza Yaghobi [project](https://github.com/armiinygh/Othello_game)
