@@ -120,3 +120,5 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Maryam Mortazavi Nik [Project](https://github.com/MaryamNikk/IE-HW2.git)
+
