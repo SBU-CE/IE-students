@@ -124,6 +124,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Alireza Mahdi Barzi [project](https://github.com/ambrz77/ie-git-hw)
+
 - Nima HeydariNasab [project](https://github.com/nimah79/tidb-enhanced)
 
 - Zahra Hashemi [project](https://github.com/zahra-zibzee/Audacity-app)
@@ -149,5 +151,3 @@ We are students with great projects!
 - MohammadMahdi Chizari [project](https://github.com/MMChizari/NetCourseRepository)
 
 - Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
-
-
