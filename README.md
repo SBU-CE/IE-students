@@ -124,6 +124,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Mohammadreza Amini [Serial Adder](https://github.com/mrezaamini/Serial-Adder)
+
 - Melika Khodamoradi  [project](https://github.com/melikakhodamoradi1/Hello-World.git)
 
 - Alireza Mahdi Barzi [project](https://github.com/ambrz77/ie-git-hw)
@@ -153,3 +155,4 @@ We are students with great projects!
 - MohammadMahdi Chizari [project](https://github.com/MMChizari/NetCourseRepository)
 
 - Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
+
