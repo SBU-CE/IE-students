@@ -124,6 +124,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Danial Riazati [project](https://github.com/danial-riazati/git_hw)
+
 - Parsa Noori [Compiler HW3](https://github.com/parsanoori/CompilerHW3)
 
 - Mohammadreza Mohammadzade Asl [project](https://github.com/Mohammadreza-mz/ShatranjClient)
