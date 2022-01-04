@@ -126,6 +126,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Mostafa Najafi [project](https://github.com/cursedclock/data-structures)
+
 - Alireza Amini [Jacobian Calculator](https://github.com/alirezaamn/jacobian-calculator)
 
 - Maryam Mortazavi Nik [Project](https://github.com/MaryamNikk/IE-HW2.git)
