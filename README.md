@@ -126,6 +126,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Alireza Amini [Jacobian Calculator](https://github.com/alirezaamn/jacobian-calculator)
+
 - Maryam Mortazavi Nik [Project](https://github.com/MaryamNikk/IE-HW2.git)
 
 - Mohammad Vasegh [project](https://github.com/mesmol/Internet-Engineering-Homework)
@@ -183,3 +185,4 @@ We are students with great projects!
 - MohammadMahdi Chizari [project](https://github.com/MMChizari/NetCourseRepository)
 
 - Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
+
