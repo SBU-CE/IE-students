@@ -126,6 +126,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Maryam Mortazavi Nik [Project](https://github.com/MaryamNikk/IE-HW2.git)
+
 - Mohammad Vasegh [project](https://github.com/mesmol/Internet-Engineering-Homework)
 
 - Mohammadmehdi Khani [project](https://github.com/MohammadmehdiKhani/prof-in-github)
