@@ -126,6 +126,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Seyed Alireza Yaghobi [project](https://github.com/armiinygh/Othello_game)
+
 - Souhel Deeb [compiler project](https://github.com/souheldeeb123/IEcourse)
 
 - Mostafa Najafi [project](https://github.com/cursedclock/data-structures)
