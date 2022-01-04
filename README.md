@@ -124,6 +124,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Mohammadreza Mohammadzade Asl [project](https://github.com/Mohammadreza-mz/ShatranjClient)
+
 - Tara Barghian [project](https://github.com/taraBarghian/AI-Driven-Othello)
 
 - Mehrshad Saadatinia [project](https://github.com/mehrshad-sdtn/IE_git_hw)
