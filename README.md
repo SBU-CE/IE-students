@@ -124,6 +124,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Tara Barghian [project](https://github.com/taraBarghian/AI-Driven-Othello)
+
 - Mohammad Mehdi Teymorian [Microcontroller-Oscillator](https://github.com/mehditeymorian/Microcontroller-Oscillator)
 
 - Mohammadreza Amini [Serial Adder](https://github.com/mrezaamini/Serial-Adder)
