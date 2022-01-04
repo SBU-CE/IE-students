@@ -1,4 +1,4 @@
- IE-students
+IE-students
 
 We are students with great projects!
 
@@ -10,13 +10,13 @@ We are students with great projects!
 
 - amirhosein delavar [project](https://github.com/AmirhoseinDelavar/Python-CheatSheet)
 
-- amir masud shaker [project](https://github.com/amshaker/Hello-World) 
+- amir masud shaker [project](https://github.com/amshaker/Hello-World)
 
 - MohammadMahdi Peyravi [project](https://github.com/mmpeyravi/mmpeyravi.git)
 
 - Taha Nasiri [project](https://github.com/tahanasiri/IE_Repository)
 
-- Mohammad Hadi Foroughi [project](https://github.com/hadiforoughi/AnonymousChat) 
+- Mohammad Hadi Foroughi [project](https://github.com/hadiforoughi/AnonymousChat)
 
 - Kian Jalilian [project](https://github.com/kianjalilian/git-homework)
 
@@ -24,7 +24,7 @@ We are students with great projects!
 
 - hanieh mahdavi [AES-Cryptography](https://github.com/haniehm26/AES-Cryptography)
 
-- Mohammad Movahedinia [project](https://github.com/Immohammad/Ie-homework.git) 
+- Mohammad Movahedinia [project](https://github.com/Immohammad/Ie-homework.git)
 
 - kimia imeny [project](https://github.com/Kimiaimeni/hello-world.git)
 
@@ -44,7 +44,7 @@ We are students with great projects!
 
 - fatemeh sadat mirabdollahi [project](https://github.com/fatemehMirabdollahi/to-do)
 
-- Peyman Alavi [project](https://github.com/peyman-alv/internet-engineering)  
+- Peyman Alavi [project](https://github.com/peyman-alv/internet-engineering)
 
 - zahra keshtkar [project](https://github.com/zkeshtkar/url.git)
 
@@ -52,7 +52,7 @@ We are students with great projects!
 
 - zahra moradipour [project](https://github.com/zmp78/homework)
 
-- mohammad hassanmahdi [project](https://github.com/mohammadhm99/simple-weather-app.git) 
+- mohammad hassanmahdi [project](https://github.com/mohammadhm99/simple-weather-app.git)
 
 - Seyyed Hamid Montazeri [project](https://github.com/hamidhandid/software_test_final_project)
 
@@ -78,7 +78,7 @@ We are students with great projects!
 
 - Mohammad Reza Jamali [project](https://github.com/mrezaj79/git-hw)
 
-- Narges Ghasemi [project](https://github.com/NNargesNN/News-Classification) 
+- Narges Ghasemi [project](https://github.com/NNargesNN/News-Classification)
 
 - Mohammadreza Pakzadian [project](https://github.com/mrp-78/Text-Editore)
 
@@ -86,17 +86,17 @@ We are students with great projects!
 
 - Ali Bohlooli [IE-Project](https://github.com/alibli/behzad-shop)
 
-- farzan  momayezi [project](https://github.com/Farzan-lab/git_hw_p2.git)
+- farzan momayezi [project](https://github.com/Farzan-lab/git_hw_p2.git)
 
 - alireza mohammadi [project](https://github.com/AliirezaMohammadii/AliirezaMohammadii/)
 
-- mohammad hossein mazandaranian [project](https://github.com/modos/ie-github-homework) 
+- mohammad hossein mazandaranian [project](https://github.com/modos/ie-github-homework)
 
 - mohammad hosein heydarzadeh [project](https://github.com/heidarzade-mh/IE-home-work-1)
 
 - Hamidreza Saffari [project](https://github.com/hamidds/Astar-Search)
 
-- ehsan sajadi [project](https://github.com/ehsansajadi/Quoridor) 
+- ehsan sajadi [project](https://github.com/ehsansajadi/Quoridor)
 
 - arya parvizi [project](https://github.com/ph504/ai-computer-assignment1-eight-puzzle)
 
@@ -104,7 +104,7 @@ We are students with great projects!
 
 - matin zivdar [DSD_Projects](https://github.com/zivdar001matin/DSD_Projects)
 
-- mohammad amin shafiei [ohtello](https://github.com/Mamin78/Othello) 
+- mohammad amin shafiei [ohtello](https://github.com/Mamin78/Othello)
 
 - mohammadreza nazari [flutter project](https://github.com/mohammadreza0852/shop_app)
 
@@ -114,11 +114,13 @@ We are students with great projects!
 
 - Rasoul Akhondi [Project](https://github.com/Rasoul-Akhondi/git1_Q2)
 
-- Kamyab Abedi	[MazeSolver](https://github.com/KamyabAbedi/MazeSolver)
+- Kamyab Abedi [MazeSolver](https://github.com/KamyabAbedi/MazeSolver)
 
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
+
+- Armin Jalali [project](https://github.com/arminjm/git-hw)
 
 - Ghazal Kalhori [LL(1) Parser](https://github.com/GKalhori/LL1_Parser/)
 
