@@ -76,15 +76,11 @@ We are students with great projects!
 
 - amirhosein ebrahimi [project](https://github.com/EbrahimiAmirHosein/Internet_Eng-HW1)
 
-- Mohammad Reza Jamali [project](https://github.com/mrezaj79/git-hw)
-
 - Narges Ghasemi [project](https://github.com/NNargesNN/News-Classification)
 
 - Mohammadreza Pakzadian [project](https://github.com/mrp-78/Text-Editore)
 
 - dorreen rostami [project](https://github.com/DorreenRostami/SBU_elasticSearch)
-
-- Ali Bohlooli [IE-Project](https://github.com/alibli/behzad-shop)
 
 - farzan momayezi [project](https://github.com/Farzan-lab/git_hw_p2.git)
 
@@ -95,8 +91,6 @@ We are students with great projects!
 - mohammad hosein heydarzadeh [project](https://github.com/heidarzade-mh/IE-home-work-1)
 
 - Hamidreza Saffari [project](https://github.com/hamidds/Astar-Search)
-
-- ehsan sajadi [project](https://github.com/ehsansajadi/Quoridor)
 
 - arya parvizi [project](https://github.com/ph504/ai-computer-assignment1-eight-puzzle)
 
@@ -112,9 +106,17 @@ We are students with great projects!
 
 - Alireza ChaghaMirzaei [project](https://github.com/achm25/IE-hw1)
 
-- Rasoul Akhondi [Project](https://github.com/Rasoul-Akhondi/git1_Q2)
+- Rasoul Akhondi [project](https://github.com/Rasoul-Akhondi/git1_Q2)
 
-- Kamyab Abedi [MazeSolver](https://github.com/KamyabAbedi/MazeSolver)
+- Kamyab Abedi [project](https://github.com/KamyabAbedi/BreastCancerCoimbra)
+
+- Hadi Moradi [project](https://github.com/hadimp2000/IE-git-homework)
+
+- Ehsan Sajadi [project](https://github.com/ehsansajadi/Quoridor)
+
+- Ali Bohlooli [project](https://github.com/alibli/behzad-shop)
+
+- Mohammad Reza Jamali [project](https://github.com/mrezaj79/git-hw)
 
 - Amirhossein Nouri [Cloud Hosting](https://github.com/amirhosseinNouri/cloud-hosting-front)
 
@@ -137,3 +139,4 @@ We are students with great projects!
 - MohammadMahdi Chizari [project](https://github.com/MMChizari/NetCourseRepository)
 
 - Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
+
