@@ -124,11 +124,13 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Zahra Hashemi [project](https://github.com/zahra-zibzee/Audacity-app)
+
+- Niloufar Moradi Jam [project](https://github.com/niloufarmj/flutter-prectice)
+
 - Erfan Moshiri [project](https://github.com/erfanmoshiri/UrlShortenerService)
 
 - Mohammad Khoddam [The 8086 Tetris Project](https://github.com/mkh2097/Tetris-Assembly-8086)
-
-- Niloufar Moradi Jam [project](https://github.com/niloufarmj/flutter-prectice)
 
 - Narin Mehravar [AVR Watch](https://github.com/NarinM/Internet-Engineering-Exercise)
 
@@ -145,3 +147,4 @@ We are students with great projects!
 - MohammadMahdi Chizari [project](https://github.com/MMChizari/NetCourseRepository)
 
 - Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
+
