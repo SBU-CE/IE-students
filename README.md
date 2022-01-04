@@ -120,6 +120,8 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+- Narin Mehravar [AVR Watch](https://github.com/NarinM/Internet-Engineering-Exercise)
+
 - Armin Jalali [project](https://github.com/arminjm/git-hw)
 
 - Ghazal Kalhori [LL(1) Parser](https://github.com/GKalhori/LL1_Parser/)
