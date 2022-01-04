@@ -126,6 +126,9 @@ We are students with great projects!
 
 - Amir Hallaji Bidgoli [project](https://github.com/amirhallaji/OS-Project)
 
+
+- Zahra Kamali [Queue](https://github.com/zahra-kamali/git-hw)
+
 - Abolfazl Akhavi [SkipList](https://github.com/Abolfazlak/git)
 
 - Danial Riazati [project](https://github.com/danial-riazati/git_hw)
