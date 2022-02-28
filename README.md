@@ -195,3 +195,5 @@ We are students with great projects!
 - Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
 
 - Mohammad Borzooei [Compiler project](https://github.com/MohammadBorzooei/MyRepo/tree/main/compiler)
+
+- Mohammad Hossein Dadashi [project](https://github.com/MohammadHoseinDadashi/covid-monitor)
