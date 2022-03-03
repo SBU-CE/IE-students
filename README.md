@@ -194,6 +194,8 @@ We are students with great projects!
 
 - Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
 
+- Hamidreza Heidari [project](https://github.com/hamid-r-h/AI_project.git)
+
 - Mohammad Borzooei [Compiler project](https://github.com/MohammadBorzooei/MyRepo/tree/main/compiler)
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
