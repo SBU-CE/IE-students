@@ -198,4 +198,4 @@ We are students with great projects!
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
 
-- Parsa Mohammadpour[project](https://github.com/ParsaMohammadpour/Terror.git)
+- Parsa Mohammadpour[project] (https://github.com/ParsaMohammadpour/Terror.git)
