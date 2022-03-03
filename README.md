@@ -198,4 +198,4 @@ We are students with great projects!
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
 
-- Ali Noorkazemi[MineSweeper](https://github.com/AliNoorkazemi/MineSweeper)
+- Ali Noorkazemi [MineSweeper](https://github.com/AliNoorkazemi/MineSweeper)
