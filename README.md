@@ -198,4 +198,4 @@ We are students with great projects!
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
 
-- Sepehr Ebrahimi [project](https://github.com/IIIphr/IE_first_hw)
+- Sepehr Ebrahimi [simple php chatroom](https://github.com/IIIphr/IE_first_hw)
