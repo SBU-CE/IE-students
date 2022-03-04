@@ -190,10 +190,10 @@ We are students with great projects!
 
 - Mohammad Hossein Lotfizadeh [project](https://github.com/smhlotfi/displan)
 
-- MohammadMahdi Chizari [project](https://github.com/MMChizari/NetCourseRepository)
-
 - Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
 
 - Mohammad Borzooei [Compiler project](https://github.com/MohammadBorzooei/MyRepo/tree/main/compiler)
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
+
+- MohammadMahdi Chizari [project](https://github.com/MMChizari/iranian-cars-detector-agent)
