@@ -197,3 +197,5 @@ We are students with great projects!
 - Mohammad Borzooei [Compiler project](https://github.com/MohammadBorzooei/MyRepo/tree/main/compiler)
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
+
+- Hasan Majid Zonouzi [Linuxbu](https://github.com/hzonuz/linuxbu-chrome-extension)
