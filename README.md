@@ -198,4 +198,4 @@ We are students with great projects!
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
 
-- Mohammad Javad Sahebnasi [a project](https://github.com/MJSahebnasi/IE_hw1)
+- Mohammad Javad Sahebnasi [project](https://github.com/MJSahebnasi/IE_hw1)
