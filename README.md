@@ -198,4 +198,4 @@ We are students with great projects!
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
 
-- Zeynab Rezaei[project](https://github.com/ZeynabRezaei/ZeynabRezaei.HW1_IE.io.git)
+- Zeynab Rezaei [project](https://github.com/ZeynabRezaei/ZeynabRezaei.HW1_IE.io.git)
