@@ -240,4 +240,4 @@ We are students with great projects!
 
 - Erfan Nikooee [project](https://github.com/ErfannNikooee/Basic-Object-Oreinted_Project)
 
-- Arash Rajabpour Rahmati[project](https://https://github.com/arrrash01/Chess)
+- Arash Rajabpour Rahmati[project](https://github.com/arrrash01/Chess)
