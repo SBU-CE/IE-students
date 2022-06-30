@@ -196,8 +196,6 @@ We are students with great projects!
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
 
-- Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
-
 - Mohammad Borzooei [Compiler project](https://github.com/MohammadBorzooei/MyRepo/tree/main/compiler
  
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
@@ -219,3 +217,5 @@ We are students with great projects!
 - Mohammadhossein Arsalan [MHkala](https://github.com/ARSERLIN/MHkala.git)
 
 - Ali Nooran [project](https://github.com/alinooran/IE-hw)
+
+- Mohammad Soroosh far [Project](https://github.com/mohammadSorooshfar/internet-hw1)
