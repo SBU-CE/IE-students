@@ -192,10 +192,55 @@ We are students with great projects!
 
 - MohammadMahdi Chizari [project](https://github.com/MMChizari/NetCourseRepository)
 
-- Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
-
 - Mohammad Borzooei [Compiler project](https://github.com/MohammadBorzooei/MyRepo/tree/main/compiler)
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
   
+- Mohammad Hossein Dadashi [project](https://github.com/MohammadHoseinDadashi/covid-monitor)
+
+- Mohammad Reza Eskini [project](https://github.com/mreskini/IE-GIT-HW.git)
+
+- Kosar Dastbaz[IE_first](https://github.com/KosarDst/IE_first.git)
+
+- Mohammad Hossein Mosalman [project](https://github.com/mosalman1379/IE_GIT)
+
+- Mohammad Hosein Tahani [project](https://github.com/miganmht/azRiz)
+
+- SeyyedAbbas Mirghasemi [Snack_Snapp](https://github.com/samirghasemi/Snack_Snapp)
+
+- Hossein Taheramooz [project](https://github.com/hosseintrz/IE-test)
+
+- Mohammadhossein Arsalan [MHkala](https://github.com/ARSERLIN/MHkala.git)
+
+- Ali Nooran [project](https://github.com/alinooran/IE-hw)
+
+- Mohammad Soroosh far [Project](https://github.com/mohammadSorooshfar/internet-hw1)
+
+- AmirHossein Advari [Compiler_Project](https://github.com/AAdvari/compiler-phase3)
+
+- Fateme Ahsan [project](https://github.com/Fateme-Ahsan/Compiler)
+
+- mahsa bahri [project](https://github.com/mahsa-bahri/test)
+
+- Keivan Banan [Game](https://github.com/GeneralKeivan/Two-Cars-Project.git)
+
+- Ehsan Jafari Moghadam[Compiler project](https://github.com/ehsanmoghadam/decaf-compiler)
+
+- Parsa Mohammadpour[project](https://github.com/ParsaMohammadpour/Terror.git)
+
+- Hamidreza Heidari [project](https://github.com/hamid-r-h/AI_project.git)
+
+- Ali Noorkazemi [MineSweeper](https://github.com/AliNoorkazemi/MineSweeper)
+
+- Zahra Motamed [project](https://github.com/Zahra1379/Data-Engineering)
+
+- Hasan Majid Zonouzi [Linuxbu](https://github.com/hzonuz/linuxbu-chrome-extension)
+
+- Seyed Mohammadreza Hosseini [OTHELLO Project](https://github.com/smrh1379/reversi)
+
+- Erfan Nikooee [project](https://github.com/ErfannNikooee/Basic-Object-Oreinted_Project)
+
+- Arash Rajabpour Rahmati[project](https://github.com/arrrash01/Chess)
+
 - Fatemeh Seifi [project](https://github.com/golnarseifi/IE-hw)
+
