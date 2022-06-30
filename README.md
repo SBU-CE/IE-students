@@ -251,3 +251,5 @@ We are students with great projects!
 - Elham Farang [project](https://github.com/Ls-m/arty)
 
 - Amin Savehdoroodi [SBU Compiler Project](https://github.com/Aminsaveh/SBU_IE_HW1)
+
+- Amirhossein Sabeti [Minesweeper project](https://github.com/amirhosseinwm/Minesweeper)
