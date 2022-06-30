@@ -114,7 +114,7 @@ We are students with great projects!
 
 - Parmida Khani [project](https://github.com/parmida-khani/net-hw)
 
-- Ehsan Sajadi [project](https://github.com/ehsansajadi/Quoridor)
+- Seyed Ehsan Sajadi [project](https://github.com/ehsansajadi/Quoridor)
 
 - Ali Bohlooli [project](https://github.com/alibli/behzad-shop)
 
@@ -298,3 +298,4 @@ We are students with great projects!
 
 - Zahra Khotanlou [project](https://github.com/zkhotanlou/AI_final_project)
 
+- Seyed Mohammad Feizabadi Sani [project](https://github.com/SeyedSani/BmpRotator)
