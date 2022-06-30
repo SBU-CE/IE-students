@@ -269,3 +269,6 @@ We are students with great projects!
 - Aghigh Heidari [project](https://github.com/AghighHeidari/type_game)
 
 - Morteza Kazemi [Othello-AI-player](https://morteza-kazemi.github.io/Othello-AI-player)
+
+- Zeynab Rezaei [project](https://github.com/ZeynabRezaei/ZeynabRezaei.HW1_IE.io.git)
+
