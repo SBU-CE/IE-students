@@ -282,3 +282,5 @@ We are students with great projects!
 
 - Saba Ebrahimi [project](https://github.com/sabaebrahimi/IE-git)
 
+- Kamran Miralami[project](https://github.com/ImTheAvatar/ImTheAvatar)
+
