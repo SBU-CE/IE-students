@@ -267,3 +267,5 @@ We are students with great projects!
 - Seyed Ali Aghamiri [project](https://github.com/aliAgmr/royal_onyx_website) 
 
 - Aghigh Heidari [project](https://github.com/AghighHeidari/type_game)
+
+- Morteza Kazemi [Othello-AI-player](https://morteza-kazemi.github.io/Othello-AI-player)
