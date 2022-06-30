@@ -265,3 +265,5 @@ We are students with great projects!
 - Azadeh Nahvi [project](https://github.com/snnahvi/Compiler-HW.git)
 
 - Seyed Ali Aghamiri [project](https://github.com/aliAgmr/royal_onyx_website) 
+
+- Aghigh Heidari [project](https://github.com/AghighHeidari/type_game)
