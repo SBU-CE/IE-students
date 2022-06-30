@@ -229,3 +229,6 @@ We are students with great projects!
 - Parsa Mohammadpour[project](https://github.com/ParsaMohammadpour/Terror.git)
 
 - Hamidreza Heidari [project](https://github.com/hamid-r-h/AI_project.git)
+
+- Ali Noorkazemi [MineSweeper](https://github.com/AliNoorkazemi/MineSweeper)
+
