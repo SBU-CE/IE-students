@@ -276,3 +276,4 @@ We are students with great projects!
 
 - Arman Hoseinmardi [project](https://github.com/armanhm/Exam-Management.git) 
 
+- Pooya Jahangiri [AI-project](https://github.com/pooyajg/AI-project-SBU98)
