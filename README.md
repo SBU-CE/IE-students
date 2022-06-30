@@ -192,6 +192,10 @@ We are students with great projects!
 
 - MohammadMahdi Chizari [project](https://github.com/MMChizari/NetCourseRepository)
 
+- Mohammad Borzooei [Compiler project](https://github.com/MohammadBorzooei/MyRepo/tree/main/compiler)
+
+- Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
+
 - Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
 
 - Mohammad Borzooei [Compiler project](https://github.com/MohammadBorzooei/MyRepo/tree/main/compiler
@@ -213,3 +217,5 @@ We are students with great projects!
 - Hossein Taheramooz [project](https://github.com/hosseintrz/IE-test)
 
 - Mohammadhossein Arsalan [MHkala](https://github.com/ARSERLIN/MHkala.git)
+
+- Ali Nooran [project](https://github.com/alinooran/IE-hw)
