@@ -263,3 +263,5 @@ We are students with great projects!
 - Negaar Rezvanfar [project](https://github.com/Wonderen/DSD-HW.git)
 
 - Azadeh Nahvi [project](https://github.com/snnahvi/Compiler-HW.git)
+
+- Seyed Ali Aghamiri [project](https://github.com/aliAgmr/royal_onyx_website) 
