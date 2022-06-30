@@ -296,3 +296,5 @@ We are students with great projects!
 
 - Mona Haffar Mojarrad [DSProject](https://github.com/monahmd/DSProject)
 
+- Zahra Khotanlou [project](https://github.com/zkhotanlou/AI_final_project)
+
