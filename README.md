@@ -192,10 +192,29 @@ We are students with great projects!
 
 - MohammadMahdi Chizari [project](https://github.com/MMChizari/NetCourseRepository)
 
-- Ali Nooran [project](https://github.com/alinooran/GitExercise.git)
-
 - Mohammad Borzooei [Compiler project](https://github.com/MohammadBorzooei/MyRepo/tree/main/compiler)
 
 - Danyal Mackyabady [Goob](https://github.com/DanialDMQ/Goob)
 
+- Mohammad Hossein Dadashi [project](https://github.com/MohammadHoseinDadashi/covid-monitor)
+
+- Mohammad Reza Eskini [project](https://github.com/mreskini/IE-GIT-HW.git)
+
+- Kosar Dastbaz[IE_first](https://github.com/KosarDst/IE_first.git)
+
+- Mohammad Hossein Mosalman [project](https://github.com/mosalman1379/IE_GIT)
+
+- Mohammad Hosein Tahani [project](https://github.com/miganmht/azRiz)
+
+- SeyyedAbbas Mirghasemi [Snack_Snapp](https://github.com/samirghasemi/Snack_Snapp)
+
+- Hossein Taheramooz [project](https://github.com/hosseintrz/IE-test)
+
+- Mohammadhossein Arsalan [MHkala](https://github.com/ARSERLIN/MHkala.git)
+
+- Ali Nooran [project](https://github.com/alinooran/IE-hw)
+
+- Mohammad Soroosh far [Project](https://github.com/mohammadSorooshfar/internet-hw1)
+
 - AmirHossein Advari [Compiler_Project](https://github.com/AAdvari/compiler-phase3)
+
