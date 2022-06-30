@@ -287,3 +287,6 @@ We are students with great projects!
 - Kamran Miralami[project](https://github.com/ImTheAvatar/ImTheAvatar)
 
 - MohammadMahdi Chizari [project](https://github.com/MMChizari/iranian-cars-detector-agent)
+
+- Aida Aminian [project](https://github.com/aidaaminian/Syntax-Highlighter)
+
