@@ -292,4 +292,7 @@ We are students with great projects!
 
 - Aida Aminian [project](https://github.com/aidaaminian/Syntax-Highlighter)
 
--Akram Hazrati[project](https://github.com/AkramHazrati/githw)
+- Akram Hazrati[project](https://github.com/AkramHazrati/githw)
+
+- Mona Haffar Mojarrad [DSProject](https://github.com/monahmd/DSProject)
+
