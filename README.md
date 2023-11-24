@@ -1,6 +1,6 @@
 IE-students
 
-We are students with great projects!
+A List of Internet Engineering course students with their projects. 
 
 - roozbeh sharifnasab [project](https://github.com/rsharifnasab/os_project)
 
